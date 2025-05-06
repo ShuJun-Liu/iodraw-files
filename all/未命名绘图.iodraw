@@ -174,11 +174,19 @@
         <mxCell id="A_HaIzGcM1builxlY8Ay-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;角数据压入串口2发送数组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1379.5" y="310" width="129" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A_HaIzGcM1builxlY8Ay-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_HaIzGcM1builxlY8Ay-43" target="A_HaIzGcM1builxlY8Ay-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_HaIzGcM1builxlY8Ay-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;串口2&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;发送数组&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1384" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A_HaIzGcM1builxlY8Ay-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A_HaIzGcM1builxlY8Ay-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600.333251953125" y="50.000030517578125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A_HaIzGcM1builxlY8Ay-45" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1384" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
