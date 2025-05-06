@@ -86,25 +86,13 @@
         <mxCell id="A_HaIzGcM1builxlY8Ay-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A_HaIzGcM1builxlY8Ay-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="264" as="sourcePoint" />
-            <mxPoint x="830" y="314" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A_HaIzGcM1builxlY8Ay-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="374" as="sourcePoint" />
-            <mxPoint x="830" y="424" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A_HaIzGcM1builxlY8Ay-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_HaIzGcM1builxlY8Ay-5" target="A_HaIzGcM1builxlY8Ay-6">
+        <mxCell id="A_HaIzGcM1builxlY8Ay-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_HaIzGcM1builxlY8Ay-5" target="A_HaIzGcM1builxlY8Ay-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_HaIzGcM1builxlY8Ay-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;OLED初始化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A_HaIzGcM1builxlY8Ay-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_HaIzGcM1builxlY8Ay-6" target="A_HaIzGcM1builxlY8Ay-8">
+        <mxCell id="A_HaIzGcM1builxlY8Ay-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_HaIzGcM1builxlY8Ay-6" target="A_HaIzGcM1builxlY8Ay-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_HaIzGcM1builxlY8Ay-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;MPU9250&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;引脚初始化&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
