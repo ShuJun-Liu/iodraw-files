@@ -320,19 +320,11 @@
         <mxCell id="ozaVE95fzKIi0lWQ1Brq-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;D&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="1096" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ozaVE95fzKIi0lWQ1Brq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ozaVE95fzKIi0lWQ1Brq-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="1246" as="targetPoint" />
-            <mxPoint x="763" y="1244" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ozaVE95fzKIi0lWQ1Brq-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ozaVE95fzKIi0lWQ1Brq-12">
-          <mxGeometry x="0.5251" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ozaVE95fzKIi0lWQ1Brq-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;I&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="717" y="978" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ozaVE95fzKIi0lWQ1Brq-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="1037" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
