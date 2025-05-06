@@ -156,11 +156,17 @@
         <mxCell id="A_HaIzGcM1builxlY8Ay-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;串口2引脚&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;初始化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A_HaIzGcM1builxlY8Ay-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_HaIzGcM1builxlY8Ay-38" target="A_HaIzGcM1builxlY8Ay-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_HaIzGcM1builxlY8Ay-38" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1384" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_HaIzGcM1builxlY8Ay-39" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;9250DMP库获取欧拉角数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1384" y="200" width="147" height="60" as="geometry" />
+          <mxGeometry x="1370.5" y="200" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_HaIzGcM1builxlY8Ay-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1289" y="316" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
