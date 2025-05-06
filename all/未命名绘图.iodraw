@@ -211,8 +211,14 @@
         <mxCell id="A_HaIzGcM1builxlY8Ay-55" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;串口1发送输出量X对应的步进电机速度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1735.5" y="420" width="191" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A_HaIzGcM1builxlY8Ay-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_HaIzGcM1builxlY8Ay-57" target="A_HaIzGcM1builxlY8Ay-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_HaIzGcM1builxlY8Ay-57" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;清除中断&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;回调标志位&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1771" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_HaIzGcM1builxlY8Ay-59" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1771" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
