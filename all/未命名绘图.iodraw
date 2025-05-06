@@ -188,7 +188,10 @@
           <mxGeometry x="1384" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A_HaIzGcM1builxlY8Ay-50" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1394" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1771" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A_HaIzGcM1builxlY8Ay-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1644" y="313" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
