@@ -199,11 +199,14 @@
         <mxCell id="A_HaIzGcM1builxlY8Ay-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;获取超声波距离&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1771" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A_HaIzGcM1builxlY8Ay-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_HaIzGcM1builxlY8Ay-53" target="A_HaIzGcM1builxlY8Ay-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_HaIzGcM1builxlY8Ay-53" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PID运算出&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;输出量x&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1771" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A_HaIzGcM1builxlY8Ay-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1756" y="354" width="120" height="60" as="geometry" />
+        <mxCell id="A_HaIzGcM1builxlY8Ay-55" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;串口1发送输出量X对应的步进电机速度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1771" y="420" width="191" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
