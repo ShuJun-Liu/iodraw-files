@@ -401,7 +401,10 @@
           <mxGeometry x="280" y="2231" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pZ9Xn69vDpLRd-nXYOus-32" value="时间数字转换器量化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fillOpacity=100;arcSize=12;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="290" y="2331" width="141" height="60" as="geometry" />
+          <mxGeometry x="279.5" y="2330" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZ9Xn69vDpLRd-nXYOus-44" value="时间数字转换器量化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fillOpacity=100;arcSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="289.5" y="2340" width="141" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
