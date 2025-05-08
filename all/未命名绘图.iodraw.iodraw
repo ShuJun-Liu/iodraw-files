@@ -1,84 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="8Lnk5I4_O7qqWrrlAOQS">
-    <mxGraphModel dx="1221" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="vnCtNLQS-2teeSANGh06">
+    <mxGraphModel dx="1221" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0clCnJ1r2AZZRGTD9wAR-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="260" as="sourcePoint" />
-            <mxPoint x="180" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="370" as="sourcePoint" />
-            <mxPoint x="180" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;OLED初始化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-11" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;MPU6050&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;引脚初始化&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0clCnJ1r2AZZRGTD9wAR-12" target="0clCnJ1r2AZZRGTD9wAR-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;MPU6050DMP库初始化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="420" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0clCnJ1r2AZZRGTD9wAR-13" target="0clCnJ1r2AZZRGTD9wAR-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="290" y="550" />
-              <mxPoint x="290" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;位置式PID&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;初始化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0clCnJ1r2AZZRGTD9wAR-15" target="0clCnJ1r2AZZRGTD9wAR-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;串口1引脚&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;初始化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0clCnJ1r2AZZRGTD9wAR-17" target="0clCnJ1r2AZZRGTD9wAR-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;TIM1输出PWM波初始化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="200" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0clCnJ1r2AZZRGTD9wAR-19" target="0clCnJ1r2AZZRGTD9wAR-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-19" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;TIM3定时中断初始化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0clCnJ1r2AZZRGTD9wAR-22" target="0clCnJ1r2AZZRGTD9wAR-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;TIM4定时中断初始化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0clCnJ1r2AZZRGTD9wAR-24" target="0clCnJ1r2AZZRGTD9wAR-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-24" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;硬件延时3000毫秒&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0clCnJ1r2AZZRGTD9wAR-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="Uygn5oK4UZYJfwHy85Un-1" value="开始 → I²C初始化 → MPU6050初始化 → DMP固件加载 → DMP启用 → 中断配置  &#xa;                  ↓  &#xa;主循环等待中断 → 中断触发 → 读取四元数 → 转换欧拉角 → 数据处理 → 返回主循环" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="490" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
