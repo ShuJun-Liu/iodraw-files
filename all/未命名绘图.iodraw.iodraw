@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Uygn5oK4UZYJfwHy85Un-1" value="开始 → I²C初始化 → MPU6050初始化 → DMP固件加载 → DMP启用 → 中断配置  &#xa;                  ↓  &#xa;主循环等待中断 → 中断触发 → 读取四元数 → 转换欧拉角 → 数据处理 → 返回主循环" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="310" y="150" width="490" height="70" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
